@@ -1,0 +1,9 @@
+ec2-15-164-188-121.ap-northeast-2.compute.amazonaws.com
+
+lab08
+
+ip: 15.164.188.121
+
+jupyter notebook port: 8897
+Rstudio Pw: multilab08! 
+22
